@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/30x/project-management.png?label=ready&title=Ready)](https://waffle.io/30x/project-management)
 # project-management
 Tasks not specific to a given project, exploratory stuff and project management
 
